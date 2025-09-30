@@ -55,7 +55,7 @@ Cada proyecto representa un paso en mi proceso de aprendizaje y demuestra mi cap
 - Conceptos aplicados: bucles, tuplas, listas, funciones, librería `random`.
 - Archivo: `Simulador_de_Mazo_de_Cartas.py`
 
-Imagenes/Simulador_de_Mazo_de_Cartas_Código_Ejecutado.png
+![Cartas -> Ejecución de Código](Proyectos_Python/Imagenes/Simulador_de_Mazo_de_Cartas_Código_Ejecutado.png)
 
 ---
 
