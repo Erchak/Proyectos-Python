@@ -1,4 +1,4 @@
-# Proyectos del Curso de Python (Mimo)
+# Proyectos Python (Mimo, Plataforma de formación online)
 
 Este repositorio contiene una colección de proyectos realizados durante mi formación en Python, aplicando desde conceptos básicos hasta el consumo de APIs y programación estructurada. 
 Cada proyecto representa un paso en mi proceso de aprendizaje y demuestra mi capacidad para resolver problemas con código limpio y funcional.
