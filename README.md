@@ -35,7 +35,7 @@ Cada proyecto representa un paso en mi proceso de aprendizaje y demuestra mi cap
 
 - Archivo: `Analizador_de_Datos_Financieros.py`
 
-Imagenes/Analizador_de_Datos_Financieros_Codigo_Ejecutado.png
+![Motor de Análisis Financiero -> Ejecución de Código](Imagenes/Analizador_de_Datos_Financieros_Codigo_Ejecutado.png)
 
 ---
 
