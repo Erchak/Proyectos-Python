@@ -81,6 +81,6 @@ Cada proyecto representa un paso en mi proceso de aprendizaje y demuestra mi cap
 # Contacto
 Si deseas conocer más sobre mis proyectos o colaborar:
 
-- 💼 [LinkedIn](https://linkedin.com/in/tu-usuario)
+- 💼 [LinkedIn](www.linkedin.com/in/ariel-halty-toro)
 - 💻 [GitHub](https://github.com/tu-usuario)
 
