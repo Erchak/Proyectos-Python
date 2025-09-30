@@ -23,7 +23,7 @@ Cada proyecto representa un paso en mi proceso de aprendizaje y demuestra mi cap
 - Conceptos aplicados: clases, objetos, encapsulamiento, listas y diccionarios.
 - Archivo: `Librería_Digital.py`
 
-![Biblioteca -> Ejecución de Código](Proyectos_Python/Imagenes/Libería_Código_Ejecutado.png)
+![Biblioteca -> Ejecucion de Codigo](Proyectos_Python/Imagenes/Libería_Código_Ejecutado.png)
 
 ---
 
