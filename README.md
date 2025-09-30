@@ -44,8 +44,8 @@ Cada proyecto representa un paso en mi proceso de aprendizaje y demuestra mi cap
 - Conceptos aplicados: uso de módulos, peticiones HTTP con `requests`, estructuras de control.
 - Archivo: `Explorador_de_Datos_de_Star_Wars_con_API_REST.py`
 
-Imagenes/Star_Wars_API_Primera_Entrada_Ejecutada.png
-Imagenes/Star_Wars_API_Segunda_Entrada_Ejecutada.png)
+![API -> Ejecución de Código Parte 1](Proyectos_Python/Imagenes/Star_Wars_API_Primera_Entrada_Ejecutada.png)
+![API -> Ejecución de Código Parte 2](Proyectos_Python/Imagenes/Star_Wars_API_Segunda_Entrada_Ejecutada.png)
 
 ---
 
