@@ -14,7 +14,7 @@ Cada proyecto representa un paso en mi proceso de aprendizaje y demuestra mi cap
 		       entrada/salida por consola (CLI) y modularización de funciones.
 - Archivo: `ChatGPT_Clone.py`
 
-![ChatGPT Clone -> Ejecución de Código](Imagenes/ChatGPT_Clone_Código_Ejecutado.png)
+Imagenes/ChatGPT_Clone_Código_Ejecutado.png
 
 ---
 
@@ -23,7 +23,7 @@ Cada proyecto representa un paso en mi proceso de aprendizaje y demuestra mi cap
 - Conceptos aplicados: clases, objetos, encapsulamiento, listas y diccionarios.
 - Archivo: `Librería_Digital.py`
 
-![Biblioteca -> Ejecución de Código](Imagenes/Libería_Código_Ejecutado.png)
+Imagenes/Libería_Código_Ejecutado.png
 
 ---
 
@@ -35,7 +35,7 @@ Cada proyecto representa un paso en mi proceso de aprendizaje y demuestra mi cap
 
 - Archivo: `Analizador_de_Datos_Financieros.py`
 
-![Motor de Análisis Financiero -> Ejecución de Código](Imagenes/Analizador_de_Datos_Financieros_Código_Ejecutado.png)
+Imagenes/Analizador_de_Datos_Financieros_Código_Ejecutado.png
 
 ---
 
@@ -44,8 +44,8 @@ Cada proyecto representa un paso en mi proceso de aprendizaje y demuestra mi cap
 - Conceptos aplicados: uso de módulos, peticiones HTTP con `requests`, estructuras de control.
 - Archivo: `Explorador_de_Datos_de_Star_Wars_con_API_REST.py`
 
-![API -> Ejecución de Código Parte 1](Imagenes/Star_Wars_API_Primera_Entrada_Ejecutada.png)
-![API -> Ejecución de Código Parte 2](Imagenes/Star_Wars_API_Segunda_Entrada_Ejecutada.png)
+Imagenes/Star_Wars_API_Primera_Entrada_Ejecutada.png
+Imagenes/Star_Wars_API_Segunda_Entrada_Ejecutada.png)
 
 ---
 
@@ -55,7 +55,7 @@ Cada proyecto representa un paso en mi proceso de aprendizaje y demuestra mi cap
 - Conceptos aplicados: bucles, tuplas, listas, funciones, librería `random`.
 - Archivo: `Simulador_de_Mazo_de_Cartas.py`
 
-![Cartas -> Ejecución de Código](Imagenes/Simulador_de_Mazo_de_Cartas_Código_Ejecutado.png)
+Imagenes/Simulador_de_Mazo_de_Cartas_Código_Ejecutado.png
 
 ---
 
@@ -64,7 +64,7 @@ Cada proyecto representa un paso en mi proceso de aprendizaje y demuestra mi cap
 - Conceptos aplicados: bucles, tuplas, listas, funciones, librería `random`.
 - Archivo: `Evaluador_de_ Contraseñas_ Seguras.py`
 
-![Evaluador de contraseñas seguras -> Ejecución de Código](Imagenes/Evaluador_de_Contraseñas_seguras_Código_Ejecutado.png)
+Imagenes/Evaluador_de_Contraseñas_seguras_Código_Ejecutado.png
 
 ---
 
