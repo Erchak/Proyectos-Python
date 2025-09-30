@@ -14,7 +14,7 @@ Cada proyecto representa un paso en mi proceso de aprendizaje y demuestra mi cap
 		       entrada/salida por consola (CLI) y modularización de funciones.
 - Archivo: `ChatGPT_Clone.py`
 
-![ChatGPT Clone -> Ejecución de Código](Imagenes/ChatGPT_Clone_Codigo_Ejecutado.png)
+![ChatGPT Clone -> Ejecución de Código](Proyectos_Python/Imagenes/ChatGPT_Clone_Codigo_Ejecutado.png)
 
 ---
 
