@@ -64,7 +64,7 @@ Cada proyecto representa un paso en mi proceso de aprendizaje y demuestra mi cap
 - Conceptos aplicados: bucles, tuplas, listas, funciones, librería `random`.
 - Archivo: `Evaluador_de_ Contraseñas_ Seguras.py`
 
-Imagenes/Evaluador_de_Contraseñas_seguras_Código_Ejecutado.png
+![Evaluador de contraseñas seguras -> Ejecución de Código](Proyectos_Python/Imagenes/Evaluador_de_Contraseñas_seguras_Código_Ejecutado.png)
 
 ---
 
