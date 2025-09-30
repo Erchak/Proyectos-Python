@@ -35,7 +35,7 @@ Imagenes/Libería_Código_Ejecutado.png
 
 - Archivo: `Analizador_de_Datos_Financieros.py`
 
-Imagenes/Analizador_de_Datos_Financieros_Código_Ejecutado.png
+Imagenes/Analizador_de_Datos_Financieros_Codigo_Ejecutado.png
 
 ---
 
